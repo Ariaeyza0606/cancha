@@ -1,0 +1,41 @@
+.boxout{
+	width: 800px; 
+    height: 500px; 
+    background: #8CB27C;
+    position:relative;
+}
+.box{
+	width: 760px;
+    height: 458px;
+    background: transparent;
+    position: absolute;
+    left: 16px;
+    bottom: 19px;
+    border: 1px solid white;
+}
+.boxleft{
+	width: 100px;
+    height: 200px;
+    position: absolute;
+    bottom: 132px;
+    border: 1px solid white;
+    border-left: 0px;
+  }
+.boxcenter{
+	width: 200px;
+    height: 200px;
+    position: absolute;
+    bottom: 132px;
+    left: 300px;
+    border-radius: 50%;
+    border: 1px solid white;
+}
+.boxright{
+	width: 100px;
+    height: 200px;
+    position: absolute;
+    bottom: 132px;
+    right: 0px;
+    border: 1px solid white;
+    border-right: 0px;
+}

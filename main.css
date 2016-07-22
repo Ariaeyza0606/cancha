@@ -54,3 +54,6 @@
     right: 106px;
     bottom: 129px;
 }
+a.filtro:hover{
+	opacity:0.5;
+}
